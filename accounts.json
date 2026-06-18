@@ -1,0 +1,14 @@
+[
+    {
+        "account_type": "Account",
+        "account_no": 110,
+        "name": "Deepak",
+        "balance": 110090.0
+    },
+    {
+        "account_type": "Account",
+        "account_no": 200,
+        "name": "Aman",
+        "balance": 3500.0
+    }
+]

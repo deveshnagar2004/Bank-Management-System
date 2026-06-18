@@ -1,0 +1,66 @@
+[
+    {
+        "account_no": 100,
+        "type": "Account Created",
+        "amount": 3000.0,
+        "balance": 3000.0,
+        "date": "18-06-2026",
+        "time": "09:02:13 PM"
+    },
+    {
+        "account_no": 110,
+        "type": "Account Created",
+        "amount": 110000.0,
+        "balance": 110000.0,
+        "date": "18-06-2026",
+        "time": "09:12:51 PM"
+    },
+    {
+        "account_no": 110,
+        "type": "Deposit",
+        "amount": 100.0,
+        "balance": 110100.0,
+        "date": "18-06-2026",
+        "time": "09:13:12 PM"
+    },
+    {
+        "account_no": 110,
+        "type": "Withdraw",
+        "amount": 10.0,
+        "balance": 110090.0,
+        "date": "18-06-2026",
+        "time": "09:13:45 PM"
+    },
+    {
+        "account_no": 200,
+        "type": "Account Created",
+        "amount": 3000.0,
+        "balance": 3000.0,
+        "date": "18-06-2026",
+        "time": "09:14:40 PM"
+    },
+    {
+        "account_no": 200,
+        "type": "Deposit",
+        "amount": 300.0,
+        "balance": 3300.0,
+        "date": "18-06-2026",
+        "time": "09:24:43 PM"
+    },
+    {
+        "account_no": 200,
+        "type": "Deposit",
+        "amount": 300.0,
+        "balance": 3600.0,
+        "date": "18-06-2026",
+        "time": "09:24:56 PM"
+    },
+    {
+        "account_no": 200,
+        "type": "Withdraw",
+        "amount": 100.0,
+        "balance": 3500.0,
+        "date": "18-06-2026",
+        "time": "09:25:23 PM"
+    }
+]
